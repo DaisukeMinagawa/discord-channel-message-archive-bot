@@ -62,5 +62,5 @@ async def on_message(message):
         session.commit()
 
 
-# botを実行
+# botを実行する
 client.run(DISCORD_BOT_TOKEN)
